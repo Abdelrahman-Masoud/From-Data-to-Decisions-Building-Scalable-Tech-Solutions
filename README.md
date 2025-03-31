@@ -32,8 +32,7 @@ Pandas & NumPy (Data Manipulation)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/car-maintenance-dashboard.git
-cd car-maintenance-dashboard
+git clone [https://github.com/Abdelrahman-Masoud/From-Data-to-Decisions-Building-Scalable-Tech-Solutions/blob/main/README.md]
 
 Install dependencies:
 
